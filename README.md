@@ -10,3 +10,4 @@ git push -u origin master
 
 # test
 command
+test
