@@ -1,6 +1,6 @@
 # pmk2
 
-or create a new repository on the command line
+Create a new repository on the command line
 echo "# pmk2" >> README.md
 git init
 git add README.md
